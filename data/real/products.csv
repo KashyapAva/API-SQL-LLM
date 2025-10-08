@@ -1,0 +1,121 @@
+product_id,name,category,price
+1,Office Item 1,Office Supplies,20.26
+2,Office Item 2,Office Supplies,3.68
+3,Office Item 3,Office Supplies,10.43
+4,Office Item 4,Office Supplies,9.03
+5,Office Item 5,Office Supplies,22.88
+6,Office Item 6,Office Supplies,21.27
+7,Office Item 7,Office Supplies,27.09
+8,Office Item 8,Office Supplies,5.35
+9,Office Item 9,Office Supplies,14.39
+10,Office Item 10,Office Supplies,3.8
+11,Office Item 11,Office Supplies,8.9
+12,Office Item 12,Office Supplies,16.64
+13,Office Item 13,Office Supplies,3.72
+14,Office Item 14,Office Supplies,8.37
+15,Office Item 15,Office Supplies,20.55
+16,Office Item 16,Office Supplies,17.71
+17,Office Item 17,Office Supplies,8.95
+18,Office Item 18,Office Supplies,18.91
+19,Office Item 19,Office Supplies,24.85
+20,Office Item 20,Office Supplies,3.18
+21,Technology Item 1,Technology,572.78
+22,Technology Item 2,Technology,502.79
+23,Technology Item 3,Technology,270.16
+24,Technology Item 4,Technology,150.06
+25,Technology Item 5,Technology,671.19
+26,Technology Item 6,Technology,267.79
+27,Technology Item 7,Technology,109.28
+28,Technology Item 8,Technology,111.87
+29,Technology Item 9,Technology,599.87
+30,Technology Item 10,Technology,441.42
+31,Technology Item 11,Technology,573.63
+32,Technology Item 12,Technology,523.33
+33,Technology Item 13,Technology,397.55
+34,Technology Item 14,Technology,681.53
+35,Technology Item 15,Technology,295.05
+36,Technology Item 16,Technology,407.83
+37,Technology Item 17,Technology,588.11
+38,Technology Item 18,Technology,451.04
+39,Technology Item 19,Technology,609.11
+40,Technology Item 20,Technology,424.28
+41,Furniture Item 1,Furniture,721.3
+42,Furniture Item 2,Furniture,102.07
+43,Furniture Item 3,Furniture,273.22
+44,Furniture Item 4,Furniture,331.02
+45,Furniture Item 5,Furniture,134.0
+46,Furniture Item 6,Furniture,277.82
+47,Furniture Item 7,Furniture,153.94
+48,Furniture Item 8,Furniture,320.3
+49,Furniture Item 9,Furniture,656.54
+50,Furniture Item 10,Furniture,401.94
+51,Furniture Item 11,Furniture,406.97
+52,Furniture Item 12,Furniture,255.94
+53,Furniture Item 13,Furniture,309.96
+54,Furniture Item 14,Furniture,939.46
+55,Furniture Item 15,Furniture,668.15
+56,Furniture Item 16,Furniture,631.58
+57,Furniture Item 17,Furniture,219.87
+58,Furniture Item 18,Furniture,744.38
+59,Furniture Item 19,Furniture,212.6
+60,Furniture Item 20,Furniture,415.69
+61,Appliances Item 1,Appliances,494.03
+62,Appliances Item 2,Appliances,328.36
+63,Appliances Item 3,Appliances,288.99
+64,Appliances Item 4,Appliances,349.51
+65,Appliances Item 5,Appliances,424.51
+66,Appliances Item 6,Appliances,392.82
+67,Appliances Item 7,Appliances,133.57
+68,Appliances Item 8,Appliances,40.22
+69,Appliances Item 9,Appliances,174.52
+70,Appliances Item 10,Appliances,151.91
+71,Appliances Item 11,Appliances,125.01
+72,Appliances Item 12,Appliances,471.94
+73,Appliances Item 13,Appliances,440.4
+74,Appliances Item 14,Appliances,174.16
+75,Appliances Item 15,Appliances,335.68
+76,Appliances Item 16,Appliances,212.53
+77,Appliances Item 17,Appliances,458.5
+78,Appliances Item 18,Appliances,242.5
+79,Appliances Item 19,Appliances,150.55
+80,Appliances Item 20,Appliances,141.9
+81,Toys Item 1,Toys,69.56
+82,Toys Item 2,Toys,35.22
+83,Toys Item 3,Toys,72.23
+84,Toys Item 4,Toys,108.25
+85,Toys Item 5,Toys,50.93
+86,Toys Item 6,Toys,30.22
+87,Toys Item 7,Toys,119.72
+88,Toys Item 8,Toys,63.6
+89,Toys Item 9,Toys,15.45
+90,Toys Item 10,Toys,10.42
+91,Toys Item 11,Toys,17.61
+92,Toys Item 12,Toys,77.16
+93,Toys Item 13,Toys,96.09
+94,Toys Item 14,Toys,53.55
+95,Toys Item 15,Toys,12.31
+96,Toys Item 16,Toys,48.89
+97,Toys Item 17,Toys,119.55
+98,Toys Item 18,Toys,65.85
+99,Toys Item 19,Toys,116.67
+100,Toys Item 20,Toys,103.99
+101,Books Item 1,Books,5.63
+102,Books Item 2,Books,44.64
+103,Books Item 3,Books,42.49
+104,Books Item 4,Books,34.53
+105,Books Item 5,Books,19.68
+106,Books Item 6,Books,40.25
+107,Books Item 7,Books,11.14
+108,Books Item 8,Books,28.91
+109,Books Item 9,Books,29.95
+110,Books Item 10,Books,57.46
+111,Books Item 11,Books,53.17
+112,Books Item 12,Books,19.49
+113,Books Item 13,Books,32.53
+114,Books Item 14,Books,14.83
+115,Books Item 15,Books,55.19
+116,Books Item 16,Books,52.88
+117,Books Item 17,Books,21.41
+118,Books Item 18,Books,40.14
+119,Books Item 19,Books,38.49
+120,Books Item 20,Books,13.41
